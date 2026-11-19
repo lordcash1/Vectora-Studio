@@ -1,0 +1,20 @@
+VECTORA STUDIO
+
+Free vector graphics and design editor
+No subscription, premium membership, paid tool locks, or usage credits.
+
+Hosting pack
+1. Upload ALL files in this ZIP to your web host. Keep them in the same folder.
+2. Open the web address once while online. The app saves itself on your device.
+3. After that it can open and work offline. On a phone use Add to Home Screen to install it as an app.
+4. You can also open index.html directly, but offline installation requires hosting.
+5. Fonts and the shape-combining engine may download once while online, then are cached for offline use.
+
+Existing DrawFree document storage keys are preserved for compatibility with existing saved work.
+
+New in this development pass
+- Symmetry drawing for freehand, calligraphy and artistic brush strokes.
+- Vertical, horizontal, and dual-axis mirroring around the document centre.
+- Updated offline cache version so browsers fetch the latest application files.
+
+All existing tools and project features are retained. Save project files regularly as a backup.
